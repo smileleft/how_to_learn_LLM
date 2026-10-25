@@ -62,7 +62,7 @@ Mac에서는 다음 세 가지를 병행.
 | 3주 | Self-Attention, Q/K/V, Causal Mask | Attention 직접 구현 | Attention 출력 검증 |
 | 4주 | Multi-Head Attention, Transformer Block | Decoder Block 구현 | 입력·출력 차원 및 마스킹 테스트 |
 
-- **주교재**: 『밑바닥부터 만들면서 배우는 LLM』 1~4장
+- **주교재**: 『밑바닥부터 만들면서 배우는 LLM』 1~4장 (https://www.hanbit.co.kr/books/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D?code=B8475831198)
 - **공식 예제**: [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) — 장별 실습 코드와 Attention, GPT 구현 예제 제공
 
 **4주차 완료 결과물**

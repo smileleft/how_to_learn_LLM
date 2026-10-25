@@ -118,7 +118,7 @@ mini-gpt/
 - Peak Memory
 - Tokens/sec
 
-- **주교재**: 『밑바닥부터 만들면서 배우는 LLM』 5장
+- **주교재**: [『밑바닥부터 시작하는 딥러닝』](https://www.hanbit.co.kr/books/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D?code=B8475831198) 5장
 - **심화 강의**: [Stanford CS336 — Language Modeling from Scratch](https://stanford-cs336.github.io/)
 
 > Stanford CS336에는 Tokenizer, Transformer, Optimizer 구현부터 데이터 처리, 평가, 최적화까지 포함되어 있습니다. 다만 일부 과제는 NVIDIA GPU 및 대규모 연산 환경을 전제로 하므로 Mac에서는 기본 구현 과제를 중심으로 진행하는 것이 좋음.

@@ -1,6 +1,6 @@
 # 1주차 상세 학습계획 — PyTorch 기초와 개발환경
 
-> 기준 문서: [how_to_learn_LLM README](https://github.com/smileleft/how_to_learn_LLM) · 작성일: 2026-10-27
+> 작성일: 2026-10-27
 
 ## 1주차 개요
 

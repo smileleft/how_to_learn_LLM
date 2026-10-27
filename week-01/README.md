@@ -330,7 +330,7 @@ text = generate(model, tokenizer, prompt=prompt, max_tokens=200, verbose=True)
 
 ## 결과물 디렉터리와 기록 방법
 
-1주차 결과물은 README 4.4의 24주 공통 구조 중 `01-pytorch/`와 `05-inference/mlx/`에 둔다. 저장소의 `week-01/` 폴더에는 회고와 결과 요약만 링크해 두면 주차별 진행을 한눈에 볼 수 있다.
+1주차 결과물은 24주 공통 구조 중 `01-pytorch/`와 `05-inference/mlx/`에 둔다. 저장소의 `week-01/` 폴더에는 회고와 결과 요약만 링크해 두면 주차별 진행을 한눈에 볼 수 있다.
 
 ```
 llm-study/

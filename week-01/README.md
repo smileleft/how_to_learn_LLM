@@ -4,7 +4,7 @@
 
 ## 1주차 개요
 
-1주차의 목표는 Mac M2에 PyTorch(MPS)·MLX 환경을 갖추고, Tensor → Autograd → 역전파 → 신경망 학습까지 직접 구현해 **학습·검증 Loss 곡선을 그리는 것**이다. 저장소 README의 1주차 정의(이론: Tensor, Autograd, Backpropagation / 실습: PyTorch 신경망 구현 / 완료 기준: 학습·검증 Loss 시각화)와 4장 '첫 주 실습'을 하나로 묶었어서 진행한다.
+1주차의 목표는 Mac M2에 PyTorch(MPS)·MLX 환경을 갖추고, Tensor → Autograd → 역전파 → 신경망 학습까지 직접 구현해 **학습·검증 Loss 곡선을 그리는 것**이다. 저장소 README의 1주차 정의(이론: Tensor, Autograd, Backpropagation / 실습: PyTorch 신경망 구현 / 완료 기준: 학습·검증 Loss 시각화)와 4장 '첫 주 실습'을 하나로 묶어서 진행한다.
 
 - **전제**: 신경망·머신러닝 기초 개념은 알고 있음, Python 사용 가능
 - **시간**: 주 10~12시간
